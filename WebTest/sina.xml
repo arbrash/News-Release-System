@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>pic/sina.jpg</ImageUrl>
+    <NavigateUrl>http://www.sina.com.cn</NavigateUrl>
+    <AlternateText>新浪</AlternateText>
+    <Keywork>Computer</Keywork>
+    <Impressions>80</Impressions>
+  </Ad>
+</Advertisements>

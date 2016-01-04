@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>pic/163.jpg</ImageUrl>
+    <NavigateUrl>http://www.163.com</NavigateUrl>
+    <AlternateText>网易</AlternateText>
+    <Keywork>Computer</Keywork>
+    <Impressions>80</Impressions>
+  </Ad>
+</Advertisements>
